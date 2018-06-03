@@ -7,3 +7,5 @@ This line should not be here
 =======
 >>>>>>> parent of 9e276c9... Third commit
 This is wrong
+LAST
+two files testing
